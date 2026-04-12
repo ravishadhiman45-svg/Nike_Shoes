@@ -1,39 +1,43 @@
-# About
+# 🚀 Nike Shoes – Modern E-Commerce Frontend
 
-The project is made to improve the skills of **Tailwind CSS** framework and its interaction with **React** library.
+A visually appealing and fully responsive Nike-inspired e-commerce website built using **React, Tailwind CSS, and Framer Motion**. This project focuses on delivering a smooth user experience with modern UI design, interactive animations, and clean component-based architecture.
 
-The knowledge gained from the JavaScript Mastery training course was used.
+---
 
-## Features
+## ✨ Features
 
-* Maximizing Tailwind CSS
-* Best Practices
-* Complex Hero Section
-* For the convenience of further development of the project, the business logic of the application is implemented, dynamic data is placed in a separate folder **"constants"**.
+- 🎨 Modern UI/UX Design – Clean and attractive layout inspired by real-world product websites  
+- 📱 Fully Responsive – Works seamlessly across mobile, tablet, and desktop  
+- ⚡ Smooth Animations – Powered by Framer Motion for engaging interactions  
+- 🛍️ Product Showcase – Dynamic product cards with hover effects  
+- 📊 Statistics Section – Highlights key metrics like brands, shops, and customers  
+- 💬 Customer Reviews – Interactive testimonial section  
+- 🚚 Services Section – Includes free shipping, secure payment, and support  
+- 📌 Reusable Components – Scalable and maintainable code structure  
 
-## Result
+---
 
-![](https://github.com/getFrontend/tailwind-nike/blob/main/public/nike-preview.png?raw=true)
+## 🛠️ Tech Stack
 
-✔ Mobile-first workflow 
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Build Tool:** Vite  
 
-✔ [Fully valid code](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnike-jdi.vercel.app%2F) 
+---
 
-✔ HTML Semantic Tags
+## 📸 Preview
 
-### PageSpeed Insights
+![Project Preview](./src/assets/images/thumbnailShoe1.png)
 
-<img src="https://github.com/getFrontend/tailwind-nike/blob/main/public/tailwind-nike_mobile.png?raw=true" width="49%"/> <img src="https://github.com/getFrontend/tailwind-nike/blob/main/public/tailwind-nike_desktop.png?raw=true" width="49%"/>
+> A sleek and modern Nike-inspired landing page with smooth animations and responsive design.
 
-✅ Mobile: 92 / 93 / 100 / 100
+---
 
-✅ Desktop: 98 / 93 / 100 / 100
+## 🚀 Getting Started
 
-## React + Vite
+### 1️⃣ Clone the repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/ravishadhiman45-svg/Nike_Shoes.git
+cd Nike_Shoes
