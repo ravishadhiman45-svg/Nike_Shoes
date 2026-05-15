@@ -1,4 +1,4 @@
-# Premium Sneaker Showcase 🚀 
+# Premium Sneaker Showcase  🚀 
 
 An ultra-premium cinematic sneaker showcase website built with Next.js, React, Tailwind CSS, Framer Motion, GSAP, and Lenis smooth scrolling.
  
